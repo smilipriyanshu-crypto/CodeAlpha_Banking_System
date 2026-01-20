@@ -1,3 +1,86 @@
 # CodeAlpha_Banking_System
-Bank Account Management System developed in C as part of the CodeAlpha Internship. Implements file handling and structures for secure data management.
-This project is a Banking System Mini Project developed in C as Part of the Code Alpha Internship.
+
+A simple **Bank Account Management System** built in C using **structures** and **file handling**.  
+This program allows users to **create accounts, deposit money, withdraw money, and check balances** with persistent storage.
+
+---
+
+## 🚀 Features
+- Create new bank accounts
+- Deposit money into an account
+- Withdraw money with balance validation
+- Check balance enquiry for any account
+- Data stored persistently using file handling (`accounts.dat`)
+
+---
+
+## 🛠️ Technologies Used
+- **C Programming Language**
+- **File Handling** (`fopen`, `fwrite`, `fread`, `fseek`)
+- **Structures** for account details
+
+---
+
+## 📥 Installation & Compilation
+
+Clone the repository:
+```bash
+git clone https://github.com/your-username/bank-account-management.git
+cd bank-account-management
+
+Compilation
+- gcc bank_management.c -o bank_management
+Run Code
+- ./bank_management
+
+---
+
+##  Sample output
+
+===== Bank Account Management System =====
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Balance Enquiry
+0. Exit
+Enter your choice: 1
+
+Enter Account Number: 101
+Enter Account Holder Name: Shruti
+Enter Initial Balance: 5000
+Account created successfully.
+
+
+===== Bank Account Management System =====
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Balance Enquiry
+0. Exit
+Enter your choice: 2
+
+Enter Account Number: 101
+Enter amount to deposit: 1500
+Deposit successful.
+
+
+===== Bank Account Management System =====
+1. Create Account
+2. Deposit Money
+3. Withdraw Money
+4. Balance Enquiry
+0. Exit
+Enter your choice: 4
+
+Enter Account Number: 101
+
+Account Holder: Shruti
+Current Balance: 6500.00
+
+---
+## 📜 License
+This project is licensed under the MIT License.
+
+
+
+
