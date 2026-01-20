@@ -24,8 +24,7 @@ This program allows users to **create accounts, deposit money, withdraw money, a
 ## 📥 Installation & Compilation
 
 Clone the repository:
-git clone https://github.com/your-username/bank-account-management.git
-cd bank-account-management
+[git clone ](https://smilipriyanshu-crypto.github.io/CodeAlpha_Banking_System/)
 
 Compilation
 - gcc bank_management.c -o bank_management
