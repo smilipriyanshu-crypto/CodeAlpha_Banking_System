@@ -24,7 +24,6 @@ This program allows users to **create accounts, deposit money, withdraw money, a
 ## 📥 Installation & Compilation
 
 Clone the repository:
-```bash
 git clone https://github.com/your-username/bank-account-management.git
 cd bank-account-management
 
@@ -34,7 +33,6 @@ Run Code
 - ./bank_management
 
 ---
-
 ##  Sample output
 
 ===== Bank Account Management System =====
@@ -79,7 +77,10 @@ Current Balance: 6500.00
 
 ---
 ## 📜 License
-This project is licensed under the MIT License.
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this software with proper attribution.
+
 
 
 
