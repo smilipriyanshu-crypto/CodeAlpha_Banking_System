@@ -43,7 +43,7 @@ Run Code
 Enter your choice: 1
 
 Enter Account Number: 101
-Enter Account Holder Name: Shruti
+Enter Account Holder Name: Priyanshu
 Enter Initial Balance: 5000
 Account created successfully.
 
@@ -71,7 +71,7 @@ Enter your choice: 4
 
 Enter Account Number: 101
 
-Account Holder: Shruti
+Account Holder: Priyanshu
 Current Balance: 6500.00
 
 ---
